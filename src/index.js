@@ -1,0 +1,1 @@
+let coffeeOptions = document.getElementById('coffeOptions')
